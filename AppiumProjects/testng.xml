@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="AppiumProject">
+    <classes>
+      <class name="AppiumProject.Activity1"/>
+      <class name="AppiumProject.Activity2"/>
+      <class name="AppiumProject.Activity3"/>
+      <class name="AppiumProject.Activity4"/>
+      <class name="AppiumProject.Activity5"/>
+      <class name="AppiumProject.Activity6"/>
+    </classes>
+  </test> <!-- AppiumProject -->
+</suite> <!-- Suite -->
